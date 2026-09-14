@@ -19,5 +19,5 @@ El ID generado en el `POST` se guarda para utilizarlo en las siguientes peticion
 ## Cómo ejecutar
 
 1. Descarga el archivo `.json` del repositorio.
-2. Impórtalo en Postman desde **Import**.
+2. Impórtalo en Postman desde **Import*.
 3. Ejecuta la colección con **Collection Runner**.
