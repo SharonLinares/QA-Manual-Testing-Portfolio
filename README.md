@@ -46,5 +46,5 @@ Se valida:
 ## Cómo ejecutar las pruebas
 
 1. Descargar el archivo `API-Testing-Postman.json`.
-2. Abrir Po
+2. Abrir Postman, importar el archivo JSON descargado, seleccionar la colección y ejecutarla con el Collection Runner.
 
